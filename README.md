@@ -1,11 +1,11 @@
-## Ryan Timbrook (Graduate Student - Course Work Repository)
+                                 ## Ryan Timbrook (Graduate Student - Course Work Repository)
 
 ## [Syracuse University, Masters of Applied Data Science](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
 ### MBC 638 Data Analysis and Decision Making - Summar 2018
 ### SYLLABUS
 
-                                          **SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT**
-                                            **MBC 638 - Data Analysis and Decision Making** 
+                                   **SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT**
+                                     **MBC 638 - Data Analysis and Decision Making** 
 
 
 Learning Outcomes:   
