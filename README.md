@@ -1,7 +1,13 @@
-# syr_mads_mbc638_data_analysis_decision_
-Syracuse University, Masters of Applied Data Science - MBC 638 Data Analysis and Decision Making
+## Ryan Timbrook (Graduate Student - Course Work Repository)
 
-MBC638 Course Syllabus Data Analysis and Decision Making 
+## [Syracuse University, Masters of Applied Data Science](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
+
+### MBC 638 Data Analysis and Decision Making - Summar 2018
+### SYLLABUS
+
+                                  **SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT**
+                                           **MBC 638 - Data Analysis and Decision Making** 
+
 
 Learning Outcomes:   
 Course Description:<br>
@@ -18,3 +24,5 @@ Learning Objectives:
   Weekly Schedule:
 
 ![Schedule](./images/schedule.png)
+
+[SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT](https://whitman.syr.edu/)
